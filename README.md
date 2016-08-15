@@ -1,2 +1,2 @@
-# myfirstbrew
+# myfirstkeg
 Playing with Homebrew
